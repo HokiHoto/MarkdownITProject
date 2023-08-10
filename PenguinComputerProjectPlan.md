@@ -67,7 +67,7 @@ High efficiency power supply perfect for use in an office computer.
 
 **Price: NZ$104.00**
 
-## Monitor*
+## Monitor
 ### *[AOC 24B2XH 23.8" 1920 x 1080 75 Hz Monitor](https://www.pbtech.co.nz/product/UNC001001627/AOC-24B2XH-238-Full-HD-LCD-Monitor---169---Black)*
 Perfect monitor for working as it has features such as reducing shortwave blue light which is good for your eyes. Display remains clear at extreme viewing angles allowing for comfortable usage and viewing.
 
