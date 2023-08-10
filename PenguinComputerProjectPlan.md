@@ -4,7 +4,7 @@
 
 ## Project Overview
 
-The project involves setting up a collaborative work environment for 4 employees who are transitioning from working at home to a shared office workspace. The aim is to provide them with 4 new computers and 2 printers. The employees primarily use Windows as their operating system, Microsoft Word for document processing, and Microsoft Publisher for desktop publishing.
+The project involves setting up a collaborative work environment for 4 employees who are transitioning from working at home to a shared office workspace. The aim is to provide them with 4 new computers and 2 printers. The employees primarily use Windows as their operating system, Microsoft Word for document processing, and Microsoft Publisher for graphic design.
 
 The principle behind the hardware and software provided in this outline is to focus on providing the best modern hardware available that is future-proof for a business that needs high productivity, speed, and reliability. Fast and power efficient hardware was prioritized to fit an office setting.
 
