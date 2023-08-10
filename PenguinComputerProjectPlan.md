@@ -151,7 +151,7 @@ As per the project outline.
 
 
 
-# Total Computer Prices
+## Total Computer Prices
 
 | Hardware & Software | Total Price                           |
 | ------------------- | ------------------------------------  |
@@ -161,7 +161,7 @@ As per the project outline.
 | 4 Systems (with Publisher perpetual license) | NZ$4,656.24  |
 
 
-# Total Project Prices
+## Total Project Prices
 
 | Hardware, Software & Printers| Total Price                             |
 | ------------------- | ------------------------------------             |
@@ -207,7 +207,7 @@ Microsoft Windows 10 Source:
 *https://www.g2a.com/category/windows-10-c3383*
 
 
-Microsoft Word
+Microsoft Word Source:
 *https://www.microsoft.com/en-nz/microsoft-365/word*
 
 
