@@ -135,7 +135,7 @@ As per the project outline.
 
 | Software        | Program Name/Identifier              | Price              |
 | --------------- | ------------------------------------ | ------------------ |
-| Documents       | Microsoft Word                       | Free               |
+| Documents       | Microsoft Word                       |NZ$14.80(User/Month)|
 | Graphic Design  | Microsoft Publisher                  | NZ$185.00          |
 | Operating System  | Windows 10                         | NZ$15.00 - NZ$55.00|
 
