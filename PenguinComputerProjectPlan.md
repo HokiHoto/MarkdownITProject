@@ -1,6 +1,5 @@
 # Penguin Publishing Computers Project Plan
 
----
 
 ## Project Overview
 
@@ -8,7 +7,8 @@ The project involves setting up a collaborative work environment for 4 employees
 
 The principle behind the hardware and software provided in this outline is to focus on providing the best modern hardware available that is future-proof for a business that needs high productivity, speed, and reliability. Fast and power efficient hardware was prioritized to fit a modern productive office setting.
 
-## **Hardware Outline**
+-----
+# ***Hardware Outline***
 
 ## CPU/GPU Processor
 ### *[AMD Ryzen 5 5600G 3.9 GHz 6-Core Processor](https://www.computerlounge.co.nz/shop/components/processors/amd/amd-ryzen-5-5600g-processor)*
@@ -87,9 +87,9 @@ Perfect printer setup for a new business that may have varying needs for printin
 
 **Price: NZ$468.99**
 
+-----
 
-
-## **Software Outline**
+# ***Software Outline***
 
 ## Operating System
 ### *[Microsoft Windows 10](https://www.g2a.com/category/windows-10-c3383)*
@@ -113,7 +113,9 @@ As per the project outline.
 **Price: NZ$185.00(Perpetual-License), - NZ$14.80(User/Month)**
 
 
+-----
 
+# ***Price Tables***
 
 ## Hardware Table
 
